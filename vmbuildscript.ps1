@@ -1,0 +1,1 @@
+New-VM -Name "PSTEST2" -MemoryStartupBytes 4294967296 -NewVHDSizeBytes 21474836480 -NewVHDPath D:\hyper-v\pstest2.vhdx
